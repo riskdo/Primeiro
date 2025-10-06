@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(136, 218, 221);
+}
+
+.paragrafo{
+  background-color: rgb(6, 54, 35);
+  padding: 15px;
+  border-radius: 35px;
+
+}
+#p1 {
+  height: 200px;
+}
+.especial{
+  color: darkgoldenrod;
+  background-color: chartreuse;
+  padding: auto;
+  border-radius: 25%;
+}
